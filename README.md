@@ -5,7 +5,7 @@
 # Proyecto de Diseño Biomédico 2
 
 **Integrantes del Equipo:**
-*   Estudiante 1
+*   Pepito Perez
 *   Estudiante 2
 *   Estudiante 3
 *   ...
