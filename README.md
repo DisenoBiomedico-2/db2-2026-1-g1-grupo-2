@@ -6,8 +6,8 @@
 
 **Integrantes del Equipo:**
 *   Isabella Duque
-*   Estudiante 2
-*   Estudiante 3
+*   Aníbal López
+*   Sebastián Rojas
 *   ...
 
 **Nombre del Proyecto:** [Escribir aquí el nombre]
