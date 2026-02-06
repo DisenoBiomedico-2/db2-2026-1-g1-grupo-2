@@ -70,5 +70,4 @@ Este repositorio organiza el proyecto separando la evidencia documental de los a
 ---
 
 ## 📝 Resumen del Problema
-*(Editar esta sección en la Semana 2)*
-Describa brevemente en 1 párrafo cuál es la necesidad clínica o problema que están resolviendo.
+La cirugía de columna vertebral implica altos niveles de riesgo debido a la necesidad de alcanzar una precisión crítica en un entorno anatómico complejo y altamente sensible, donde errores milimétricos pueden generar complicaciones severas. La evidencia clínica reporta tasas de complicaciones significativas, que oscilan entre el 7 % y el 20 %, e incluso superiores en cirugías de deformidad espinal, donde la mayoría de los pacientes presentan al menos un evento adverso durante el seguimiento. Esta variabilidad en los resultados clínicos, sumada a la fuerte dependencia de la habilidad del cirujano y de condiciones operatorias exigentes, pone en evidencia una problemática estructural relacionada con la falta de predictibilidad y control en la ejecución segura de estos procedimientos.
