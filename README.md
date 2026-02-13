@@ -8,7 +8,7 @@
 *   Isabella Duque
 *   Aníbal López
 *   Sebastián Rojas
-*   ...
+*   Daniel Mejia
 
 **Nombre del Proyecto:** [Altos niveles de riesgo en procedimientos quirúrgicos de columna que requieren precisión crítica.]
 **Stakeholder/Cliente:** [CONALMEDICAS]
